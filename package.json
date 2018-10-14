@@ -1,0 +1,11 @@
+{
+  "name": "js-storable",
+  "version": "1.0.0",
+  "description": "Easily add browser storage to any value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan Friedenberg",
+  "license": "ISC"
+}
